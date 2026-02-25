@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/sameem-s/go-hello-service
-  tag: 4dbbe4b
+  tag: 603f591
   pullPolicy: IfNotPresent
 replicaCount: 1
 service:
